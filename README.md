@@ -1,5 +1,18 @@
 # MyWebProject
+# Javascript Alert App #
+## โปรเจคเว็บแอพ จัดทำโดย  thanong ##
+### Features ###
+* List 1
+* List 2
+* List 3
 
-$ git tag a RELEASE 1.0.0 m "Some Message Message"
-ตอน Push Code ให้ Push ไปที่ Tag แทนกำร Push ไปที่ Branch ดังนี้
-$ git push origin tag RELEASE 1.0.0
+### Example code ###
+<Javascript>
+               alert('ok');
+</Javascript>
+
+Credit
+<span style="color:red"> thanongth@hotmail.com </span>
+
+## License ##
+#### MIT Liense ####
